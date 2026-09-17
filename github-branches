@@ -1,6 +1,10 @@
-
 $ git branch -vv
+* main             [origin/main]
+  bug-fix-typo     [origin/bug-fix-typo]
+  bug-fix-revert   [origin/bug-fix-revert]
 
-* main             [origin/main] 
-  bug-fix-typo      [origin/bug-fix-typo]
-  bug-fix-revert    [origin/bug-fix-revert]
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
