@@ -1,1 +1,6 @@
 
+$ git branch -vv
+
+* main             [origin/main] 
+  bug-fix-typo      [origin/bug-fix-typo]
+  bug-fix-revert    [origin/bug-fix-revert]
