@@ -1,1 +1,9 @@
+$ curl -u shreyansh8888 https://api.github.com/repos/shreyansh8888/mcino-Introduction-to-Git-and-GitHub/pulls
 
+[terminal output showing your pull request]
+
+"head": {
+  "repo": {
+    "full_name": "shreyansh8888/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
